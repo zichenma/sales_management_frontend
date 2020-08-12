@@ -1,0 +1,1 @@
+export const INIT_LIST_ACTION = 'home/INIT_LIST_ACTION';
