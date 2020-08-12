@@ -22,7 +22,11 @@ Start React Application Locally (please make sure sales management backend is ru
 
 https://github.com/zichenma/sales_management_backend.git
 
-## Quick Demo:
+## Live Demo:
+
+https://sales-management-zm.herokuapp.com/
+
+## Visual Guide:
 
 1. When the app stared, you should see:
 ![](docImages/1.png)
