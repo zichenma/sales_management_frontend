@@ -66,7 +66,7 @@ class Home extends PureComponent {
                 onOk={this.handleOk}
                 onCancel={this.handleCancel}
                 footer={[
-                    <Link to={`/${orderId}`} key={Math.random()}>
+                    <Link to={`/orderId/${orderId}`} key={Math.random()}>
                         <Button key="submit" type="primary" loading={loading} onClick={this.handleOk} disabled={disabled}>
                             Submit
                         </Button>

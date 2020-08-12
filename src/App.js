@@ -13,7 +13,7 @@ function App() {
         <BrowserRouter>
           <Switch>
             <Route path='/' exact component={Home}></Route>
-            <Route path='/:order_id'  component={Detail}></Route>
+            <Route path='/orderId/:order_id'  component={Detail}></Route>
           </Switch>
         </BrowserRouter>
        </div>
